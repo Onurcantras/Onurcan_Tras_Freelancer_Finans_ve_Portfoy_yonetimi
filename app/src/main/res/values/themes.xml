@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Onurcan_Tras_Freelancer_Finans_ve_Portfoy_yönetimi" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
